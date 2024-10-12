@@ -70,7 +70,7 @@ int main()
             }
         }
 
-        // Make the move
+        // Make the  move
         board[row][col] = player;
 
         // Check for a win after making a move
